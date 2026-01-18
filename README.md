@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey, I'm Rahul 👋
 
-<!--
-**rkvhtd/rkvhtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things on the internet.
 
-Here are some ideas to get you started:
+[![VibeCoders](https://www.vibecoders.bio/api/badge/rahulkhanna)](https://www.vibecoders.bio/rahulkhanna)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+- Building indie products
+- Shipping fast, learning faster
+
+## Connect
+
+- [VibeCoders Profile](https://www.vibecoders.bio/rahulkhanna)
+- [Twitter/X](https://x.com/rknkhanna)
+
+---
+
+*Building in public*
